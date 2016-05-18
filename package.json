@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-concrete-backend",
+  "version": "1.0.0",
+  "description": "Extending eslint-config-concrete-base.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concrete-cc/eslint-config-concrete-backend.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "lazlojuly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/concrete-cc/eslint-config-concrete-backend/issues"
+  },
+  "homepage": "https://github.com/concrete-cc/eslint-config-concrete-backend#readme",
+  "peerDependencies": {
+    "eslint": "^2.10.1",
+    "eslint-config-concrete-base": "^1.0.1",
+    "eslint-plugin-import": "^1.8.0"
+  }
+}
