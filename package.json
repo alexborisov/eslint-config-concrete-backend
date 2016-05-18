@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-concrete-backend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extending eslint-config-concrete-base.",
   "main": "index.js",
   "scripts": {
